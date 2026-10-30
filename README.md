@@ -1,9 +1,9 @@
-## Hi There! 🐱
+# Hi There! 🐱
 
-⚙️ I'm Nathan, a Software Engineer based in California.<\br>
-🎓 Actively pursuing a Bachelor's degree in Software Engineering.<\br>
-💡 I enjoy robotics and always trying to learn more about it!<\br>
-🤖 Currently writing firmware for the SJSU Robotics Club<\br>
+⚙️ I'm Nathan, a Software Engineer based in California.\
+🎓 Actively pursuing a Bachelor's degree in Software Engineering.<br>
+💡 I enjoy robotics and always trying to learn more about it!<br>
+🤖 Currently writing firmware for the SJSU Robotics Club<br>
 
 Fun Facts:
 - I love cats
