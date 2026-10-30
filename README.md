@@ -3,7 +3,7 @@
 ⚙️ A Software Engineer based in California.\
 🎓 Actively pursuing a Bachelor's degree in Software Engineering.<br>
 💡 I enjoy robotics and always trying to learn more about it!<br>
-🤖 Currently writing firmware for the SJSU Robotics Club<br>
+🤖 Currently writing firmware for the SJSU Robotics Club Rover<br>
 
 Fun Facts:
 - I love cats
