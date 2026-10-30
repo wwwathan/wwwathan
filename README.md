@@ -8,7 +8,7 @@ I enjoy robotics and always trying to learn more about it!
 
 Fun Facts:
 - I love cats
-- Currently playing Pokemon competitively in my spare time
+- I play Pokemon competitively in my spare time
 
 
 
