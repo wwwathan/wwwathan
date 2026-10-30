@@ -1,16 +1,16 @@
 ## Hi There! 🐱
 
-I'm Nathan, a Software Engineer based in California.
+⚙️ I'm Nathan, a Software Engineer based in California.
+🎓 Actively pursuing a Bachelor's degree in Software Engineering.
+💡 I enjoy robotics and always trying to learn more about it!
+🤖 Currently writing firmware for the SJSU Robotics Club
 
-Actively pursuing a Bachelor's degree in Software Engineering.
-
-I enjoy robotics and always trying to learn more about it!
 
 Fun Facts:
 - I love cats
 - I play Pokemon competitively in my spare time
 
-Tech Stack: <\br>
+# 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
