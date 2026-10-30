@@ -4,7 +4,7 @@ I'm Nathan, a Software Engineer based in California.
 
 Actively pursuing a Bachelor's degree in Software Engineering.
 
-I enjoy robotics and always trying to learn more about it.
+I enjoy robotics and always trying to learn more about it!
 
 Fun Facts:
 - I love cats
