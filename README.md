@@ -1,4 +1,4 @@
-## Hi there 🐱
+## Hi There! 🐱
 
 I'm Nathan, a Software Engineer based in California.
 
